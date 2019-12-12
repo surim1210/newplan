@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>NewPlans</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <id>http://localhost:4000</id>
+ <updated>2019-12-12T17:07:51+09:00</updated>
+ <author>
+   <name>Surim Sohn</name>
+   <uri>https://onedayhobby.com</uri>
+   <email>surim.sohn@gmail.com</email>
+ </author>
+
+ 
+
+ <entry>
+   <title>About NewPlans</title>
+   <link href="http://localhost:4000/about-newplans/"/>
+   <id>http://localhost:4000/about-newplans</id>
+   <updated>2019-12-12T15:10:00+09:00</updated>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;../img/post/01/thumbnail/thumb-logo.jpeg&quot; alt=&quot;대표이미지&quot; /&gt;&lt;/p&gt; &lt;p&gt;Hi. I’m Surim working as a travel planner and activity recommender. I will make you the most unforgettable memory during your trip to Korea. Do you want to know Korea? Participate in many special classes and enjoy your trip! You can also make your own souvenirs....</content>
+ </entry>
+
+ 
+
+</feed>
