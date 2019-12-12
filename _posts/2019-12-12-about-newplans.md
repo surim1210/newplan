@@ -19,8 +19,6 @@ tags:
 description: I will make you the most unforgettable memory during your trip to Korea.
 ---
 
-
-
 Hi. I'm Surim working as a travel planner and activity recommender. I will make you the most unforgettable memory during your trip to Korea. Do you want to know Korea? Participate in many special classes and enjoy your trip! You can also make your own souvenirs. Make special memories of your life!! Here are a couple of things to do in Korea.
 
 • One-day class program - making cooking, and art, making perfume, flower class, and more.
