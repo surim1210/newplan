@@ -11,7 +11,7 @@ categories:
   - travel
   - hobby
   - korea
-  - 
+  -
 tags:
   - travel
   - hobby
@@ -19,7 +19,7 @@ tags:
 description: I will make you the most unforgettable memory during your trip to Korea.
 ---
 
-![대표이미지](../img/post/01/thumbnail/thumb-logo.jpeg)
+
 
 Hi. I'm Surim working as a travel planner and activity recommender. I will make you the most unforgettable memory during your trip to Korea. Do you want to know Korea? Participate in many special classes and enjoy your trip! You can also make your own souvenirs. Make special memories of your life!! Here are a couple of things to do in Korea.
 
