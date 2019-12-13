@@ -3,12 +3,12 @@
 	"file": "main.css",
 	"sources": [
 		"main.scss",
-		"../blog/_sass/base.scss",
-		"../blog/_sass/mixin.scss",
-		"../blog/_sass/typography.scss",
-		"../blog/_sass/layout.scss",
-		"../blog/_sass/syntax.scss",
-		"../blog/_sass/custom.scss"
+		"_sass/base.scss",
+		"_sass/mixin.scss",
+		"_sass/typography.scss",
+		"_sass/layout.scss",
+		"_sass/syntax.scss",
+		"_sass/custom.scss"
 	],
 	"sourcesContent": [
 		"//Import\n@import \"base\", \"mixin\", \"typography\", \"layout\", \"syntax.scss\", \"custom.scss\";\n",
