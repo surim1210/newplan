@@ -1,11 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-12-13T20:33:32+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">NewPlans</title><subtitle>A minimal blog template, build with Jekyll.</subtitle><author><name>Surim Sohn</name><email>surim.sohn@gmail.com</email></author><entry><title type="html">About NewPlans</title><link href="http://localhost:4000/about-newplans/" rel="alternate" type="text/html" title="About NewPlans" /><published>2019-12-12T15:10:00+09:00</published><updated>2019-12-12T15:10:00+09:00</updated><id>http://localhost:4000/about-newplans</id><content type="html" xml:base="http://localhost:4000/about-newplans/">&lt;p&gt;Hi. I’m Surim working as a travel planner and activity recommender. I will make you the most unforgettable memory during your trip to Korea. Do you want to know Korea? Participate in many special classes and enjoy your trip! You can also make your own souvenirs. Make special memories of your life!! Here are a couple of things to do in Korea.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-12-14T00:39:27+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">NewPlans</title><subtitle>A minimal blog template, build with Jekyll.</subtitle><author><name>Surim Sohn</name><email>surim.sohn@gmail.com</email></author><entry><title type="html">About NewPlans</title><link href="http://localhost:4000/about-newplans/" rel="alternate" type="text/html" title="About NewPlans" /><published>2019-12-12T15:10:00+09:00</published><updated>2019-12-12T15:10:00+09:00</updated><id>http://localhost:4000/about-newplans</id><content type="html" xml:base="http://localhost:4000/about-newplans/">&lt;p&gt;Hi. I’m Surim working as a travel planner and activity recommender. I will make you the most unforgettable memory during your trip to Korea. Do you want to know Korea? Participate in many special classes and enjoy your trip! You can also make your own souvenirs. Make special memories of your life!! Here are a couple of things to do in Korea.&lt;/p&gt;
 
 &lt;p&gt;• One-day class program - making cooking, and art, making perfume, flower class, and more.&lt;/p&gt;
 
 &lt;p&gt;• Culture class program - making Korean foods, Tempele-stay, street food and more.&lt;/p&gt;
 
-&lt;p&gt;• Exercise class program - flying yoga, climbing, body correction.
-&lt;img src=&quot;../img/post/01/art.jpg&quot; alt=&quot;art&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;• Exercise class program - flying yoga, climbing, body correction.&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;img src=”/img/post/01/art.jpg” width=40% &amp;gt;
+&amp;lt;img src=”/img/post/01/climbing.jpg” width=40% height=17.2%&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;img src=”/img/post/01/cook.jpg” height=37% alignright&amp;gt;&lt;/p&gt;
 
 &lt;p&gt;If there’s an activity that I’m interested in my posts, please leave a comment. And, if there is any activity you want to do, please tell me. I respect your opinion. Tell me your route and which day you want to put it in. I’ll help you plan your trip more easily and easily.&lt;/p&gt;
 

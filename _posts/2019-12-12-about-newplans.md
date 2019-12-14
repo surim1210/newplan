@@ -26,7 +26,11 @@ Hi. I'm Surim working as a travel planner and activity recommender. I will make 
 • Culture class program - making Korean foods, Tempele-stay, street food and more.
 
 • Exercise class program - flying yoga, climbing, body correction.
-![art](../img/post/01/art.jpg)
+
+<img src="/img/post/01/art.jpg" width=40% >
+<img src="/img/post/01/climbing.jpg" width=40% height=17.2%>
+
+<img src="/img/post/01/cook.jpg" height=37% alignright>
 
 If there's an activity that I'm interested in my posts, please leave a comment. And, if there is any activity you want to do, please tell me. I respect your opinion. Tell me your route and which day you want to put it in. I'll help you plan your trip more easily and easily.
 
