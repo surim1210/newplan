@@ -137,7 +137,7 @@ code { color: #7b7b7b; background-color: white; }
 .page-item { background-color: #008A3C; color: #FDFDFD; padding: 4px 8px; font-weight: 400; padding: 0.5em 1em; -webkit-border-radius: 4px; -moz-border-radius: 4px; -ms-border-radius: 4px; border-radius: 4px; }
 
 /* Footer */
-footer { background-color: #008A3C; color: #FDFDFD; text-align: center; padding: 0.6667em 0; }
+footer { color: #FDFDFD; text-align: center; padding: 0.6667em 0; }
 
 #wrap { min-height: 100%; position: relative; padding-bottom: 105px; }
 
