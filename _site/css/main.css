@@ -100,8 +100,6 @@ html, body { height: 100%; }
 
 #header:after { display: block; content: ''; width: 5rem; height: 1px; margin: 23px auto; background-color: #d5d5d5; }
 
-.header_title { font-size: 120px; font-weight: 600; }
-
 /* Posts */
 #posts li { list-style-type: none; }
 
@@ -326,5 +324,6 @@ footer { background-color: #008A3C; color: #FDFDFD; text-align: center; padding:
 
 /* Literal.Number.Integer.Long */
 /*- Custom style -*/
+.header_title { font-size: 120px; font-weight: 600; }
 
 /*# sourceMappingURL=main.css.map */
