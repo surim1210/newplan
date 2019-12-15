@@ -100,7 +100,7 @@ html, body { height: 100%; }
 
 #header:after { display: block; content: ''; width: 5rem; height: 1px; margin: 23px auto; background-color: #d5d5d5; }
 
-.header_title { font-family: 'Kaushan Script', cursive; font-size: 100px; font-weight: 600; }
+#header_title { font-family: 'Kaushan Script', cursive; font-size: 100px; font-weight: 600; }
 
 /* Posts */
 #posts li { list-style-type: none; }
