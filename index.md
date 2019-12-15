@@ -17,7 +17,6 @@ In 'project', I will organize what we have learned from marketing class.
 In 'blog,' I am going to talk about an unconventional  Korean travel experience for international people.
 <br>
 
-***
 **☀️ My Skills**
 
 • Html
