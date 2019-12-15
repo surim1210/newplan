@@ -131,15 +131,15 @@ html, body {
   	color: $text-color;
   	display: inline-block;
   }
-  img {
-  	max-height: 72px;
-  	margin: 0 auto;
-  	display: block;
-  }
-  h1 {
-  	font-family: 'Kaushan Script', cursive; //Emerald logo font
-    font-weight: 600;
-  }
+  // img {
+  // 	max-height: 72px;
+  // 	margin: 0 auto;
+  // 	display: block;
+  // }
+  // h1 {
+  // 	font-family: 'Kaushan Script', cursive; //Emerald logo font
+  //   font-weight: 600;
+  // }
   &:after {
   	display: block;
     content: '';

@@ -98,10 +98,6 @@ html, body { height: 100%; }
 
 #header a { text-decoration: none; color: #222222; display: inline-block; }
 
-#header img { max-height: 72px; margin: 0 auto; display: block; }
-
-#header h1 { font-family: 'Kaushan Script', cursive; font-weight: 600; }
-
 #header:after { display: block; content: ''; width: 5rem; height: 1px; margin: 23px auto; background-color: #d5d5d5; }
 
 /* Posts */
@@ -328,5 +324,6 @@ footer { background-color: #008A3C; color: #FDFDFD; text-align: center; padding:
 
 /* Literal.Number.Integer.Long */
 /*- Custom style -*/
+#header .header_title { font-family: 'Kaushan Script', cursive; font-size: 100px; font-weight: 600; }
 
 /*# sourceMappingURL=main.css.map */
