@@ -1,12 +1,13 @@
 ---
 layout: post
-title: About NewPlans
+title: Blog
 date: 2019-12-12 15:10:00 +09:00
 author: "Surim"
-permalink: /about-newplans/
+permalink: /about-newplans-blog/
 image:
   feature: thumb-logo.jpeg
 categories:
+  [Blog]
   - 마케팅
   - travel
   - hobby

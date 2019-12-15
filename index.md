@@ -1,6 +1,6 @@
 ---
 layout: home
-title: about
+title: About me
 ---
 
 ## I'm Surim Sohn,<br> I'm learning to Digital Marketing.
