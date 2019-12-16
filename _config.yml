@@ -40,12 +40,3 @@ reverse: false
 # Comments
 disqus:
   shortname: newplans
-
-#Nav
-navigation:
- - title: Home
-   url: /index.html
- - title: Project
-   url: /project
- - title: Blog
-   url: /blog

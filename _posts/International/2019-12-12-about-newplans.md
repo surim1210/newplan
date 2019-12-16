@@ -7,11 +7,6 @@ permalink: Blog/about-newplans-blog/
 image:
   feature: thumb-logo.jpeg
 categories: [Blog]
-  - 마케팅
-  - travel
-  - hobby
-  - korea
-  -
 tags:
   - travel
   - hobby
