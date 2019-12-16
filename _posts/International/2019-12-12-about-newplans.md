@@ -6,8 +6,7 @@ author: "Surim"
 permalink: /about-newplans-blog/
 image:
   feature: thumb-logo.jpeg
-categories:
-  [Blog]
+categories: [Blog]
   - 마케팅
   - travel
   - hobby
