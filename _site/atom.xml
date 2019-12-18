@@ -4,22 +4,12 @@
  <title>NewPlans</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2019-12-18T17:29:21+09:00</updated>
+ <updated>2019-12-18T17:32:20+09:00</updated>
  <author>
    <name>Surim Sohn</name>
    <uri>https://surimemo.com</uri>
    <email>surim.sohn@gmail.com</email>
  </author>
-
- 
-
- <entry>
-   <title>simone</title>
-   <link href="http://localhost:4000/simone handbag/"/>
-   <id>http://localhost:4000/simone</id>
-   <updated>2019-12-18T14:30:00+09:00</updated>
-   <content type="html">&lt;h1 id=&quot;simone--handbag-museum&quot;&gt;SIMONE HANDBAG MUSEUM&lt;/h1&gt; &lt;p&gt;여행갈 땐 제일 먼저 챙겨할 것은 여권이다. 보통 여권 지갑 같은경우는 검색대에서 지갑을 벗긴 뒤 꺼내야 하지만, 지금 만들러 가는 여권 케이스는 여권을 집어넣고 바로 뺄 수 있는 형태로 되어 있기에 실용성이 더욱 좋아서 선택했다. 지금부터 박물관 부터 공방 체험 까지 하루에 세가지를 한번에 할 수...</content>
- </entry>
 
  
 
