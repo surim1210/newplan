@@ -4,7 +4,7 @@
  <title>NewPlans</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2019-12-18T19:53:42+09:00</updated>
+ <updated>2019-12-18T20:29:26+09:00</updated>
  <author>
    <name>Surim Sohn</name>
    <uri>https://surimemo.com</uri>
@@ -18,7 +18,7 @@
    <link href="http://localhost:4000/simone handbag/"/>
    <id>http://localhost:4000/simone</id>
    <updated>2019-12-18T14:30:00+09:00</updated>
-   <content type="html">&lt;h1 id=&quot;simone--handbag-museum&quot;&gt;SIMONE HANDBAG MUSEUM&lt;/h1&gt; &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt; &lt;p&gt;The first thing to take care of when traveling is the passport. Usually, when you have a passport wallet, you have to take your wallet off the search desk and take it out, but the passport case you are going to...</content>
+   <content type="html">&lt;h1 id=&quot;simone--handbag-museum&quot;&gt;SIMONE HANDBAG MUSEUM&lt;/h1&gt; &lt;p&gt;&lt;img src=&quot;/img/post/02/bag.JPG&quot; alt=&quot;bag&quot; /&gt;&lt;/p&gt; &lt;p&gt;The first thing to take care of when traveling is the passport. Usually, when you have a passport wallet, you have to take your wallet off the search desk and take it out, but the passport case you are going to make...</content>
  </entry>
 
  
