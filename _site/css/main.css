@@ -11,7 +11,7 @@ html { background-color: #FDFDFD; font-size: 16px; line-height: 1.5; color: #222
 @media (min-width: 940px) { html { font-size: 18px; } }
 
 /*- Link -*/
-a { color: #008A3C; text-decoration: none; font-weight: 700; }
+a { color: #ffcd6d; text-decoration: none; font-weight: 700; }
 
 a:hover, a:focus { color: #007131; }
 
