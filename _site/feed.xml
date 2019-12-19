@@ -5,8 +5,8 @@
     <description>A minimal blog template, build with Jekyll.</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 19 Dec 2019 15:26:13 +0900</pubDate>
-    <lastBuildDate>Thu, 19 Dec 2019 15:26:13 +0900</lastBuildDate>
+    <pubDate>Thu, 19 Dec 2019 15:26:41 +0900</pubDate>
+    <lastBuildDate>Thu, 19 Dec 2019 15:26:41 +0900</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -108,7 +108,7 @@ A day pass is 32000won&lt;/p&gt;
       </item>
     
       <item>
-        <title>about-Newplans</title>
+        <title>About Newplans</title>
         <description>&lt;p&gt;Hi. I’m Surim working as a travel planner and activity recommender. I will make you the most unforgettable memory during your trip to Korea. Do you want to know Korea? Participate in many special classes and enjoy your trip! You can also make your own souvenirs. Make special memories of your life!! Here are a couple of things to do in Korea.&lt;/p&gt;
 
 &lt;p&gt;• One-day class program - making cooking, and art, making perfume, flower class, and more.&lt;/p&gt;
