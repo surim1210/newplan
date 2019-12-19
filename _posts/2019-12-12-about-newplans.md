@@ -1,6 +1,6 @@
 ---
 layout: post
-title: about-newplans
+title: about-Newplans
 date: 2019-12-12 15:10:00 +09:00
 author: "Surim"
 permalink: /about-newplans-blog/

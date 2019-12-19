@@ -5,12 +5,12 @@
     <description>A minimal blog template, build with Jekyll.</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 19 Dec 2019 11:05:23 +0900</pubDate>
-    <lastBuildDate>Thu, 19 Dec 2019 11:05:23 +0900</lastBuildDate>
+    <pubDate>Thu, 19 Dec 2019 15:26:13 +0900</pubDate>
+    <lastBuildDate>Thu, 19 Dec 2019 15:26:13 +0900</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
-        <title>Simone</title>
+        <title>Korea Activity - Simone Handbag Museum</title>
         <description>&lt;h1 id=&quot;simone--handbag-museum&quot;&gt;SIMONE  HANDBAG MUSEUM&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/post/02/bag.JPG&quot; alt=&quot;bag&quot; /&gt;&lt;/p&gt;
@@ -21,7 +21,8 @@
 
 &lt;p&gt;&lt;img src=&quot;/img/post/02/3floor.JPG&quot; alt=&quot;3f&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;The ticket booth and museum is on the third floor, so don’t enter the store as soon as you get in and let’s take the elevator to the third floor. 5000 won only includes admission to the museum; so if you want to experience leather art, let’s get a day pass!!&lt;/p&gt;
+&lt;p&gt;The ticket booth and museum is on the third floor, so don’t enter the store as soon as you get in and let’s take the elevator to the third floor. 5000 won only includes admission to the museum; so if you want to experience leather art, let’s get a day pass!!
+A day pass is 32000won&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/post/02/ticket.JPG&quot; alt=&quot;ticket&quot; /&gt;&lt;/p&gt;
 
@@ -79,21 +80,35 @@
         <link>http://localhost:4000//simone handbag/</link>
         <guid isPermaLink="true">http://localhost:4000//simone handbag/</guid>
         
-        <category>korea</category>
+        <category>Korea</category>
         
         <category>trip</category>
         
+        <category>Korea travel experience</category>
+        
+        <category>Korea tourist</category>
+        
+        <category>Korea travel tips</category>
+        
+        <category>Seoul tour</category>
+        
         <category>leather</category>
+        
+        <category>souvenirs</category>
         
         
         <category>korea</category>
         
-        <category>leater</category>
+        <category>travel</category>
+        
+        <category>leather</category>
+        
+        <category>museum</category>
         
       </item>
     
       <item>
-        <title>Blog</title>
+        <title>about-Newplans</title>
         <description>&lt;p&gt;Hi. I’m Surim working as a travel planner and activity recommender. I will make you the most unforgettable memory during your trip to Korea. Do you want to know Korea? Participate in many special classes and enjoy your trip! You can also make your own souvenirs. Make special memories of your life!! Here are a couple of things to do in Korea.&lt;/p&gt;
 
 &lt;p&gt;• One-day class program - making cooking, and art, making perfume, flower class, and more.&lt;/p&gt;
