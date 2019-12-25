@@ -5,8 +5,8 @@
     <description>A minimal blog template, build with Jekyll.</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Dec 2019 21:05:42 +0900</pubDate>
-    <lastBuildDate>Wed, 25 Dec 2019 21:05:42 +0900</lastBuildDate>
+    <pubDate>Wed, 25 Dec 2019 21:06:55 +0900</pubDate>
+    <lastBuildDate>Wed, 25 Dec 2019 21:06:55 +0900</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -21,7 +21,7 @@
 
 &lt;p&gt;You can fill diffuser vase up with various shells, coral reefs, 8 kinds of sand.&lt;/p&gt;
 
-&lt;p&gt;Tip!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tip!&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Coral reefs and grasses are hard to infix in the sand, so it is recommended to dig them around with tweezers.&lt;/li&gt;
 &lt;/ul&gt;
@@ -32,7 +32,7 @@
 
 &lt;p&gt;There are more than 20 kinds of fragrance oil, and you pick the one you want.&lt;/p&gt;
 
-&lt;p&gt;Tip!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tip!&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;
     &lt;p&gt;I recommend you to pick the strong fragrance because the strong scent is better to spread in the air.&lt;/p&gt;
