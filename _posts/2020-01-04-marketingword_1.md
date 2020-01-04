@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 비전공자가 알고있으면 좋겠는 마케팅 용어
+title: 비 전공자가 알고있으면 좋겠는 마케팅 용어
 date: 2020-01-04 20:30:00 +09:00
 author: "Surim"
 permalink: /marketing word_1/
@@ -115,4 +115,4 @@ description: 마케팅과 관련이 없는 공대를 나와서 새로운 관심�
 
 [criteo](https://www.criteo.com/kr/insights/whats-difference-cpc-cpm/)
 
-[소셜마케팅코리아 블로그](https://blog.socialmkt.co.kr/475) 
+[소셜마케팅코리아 블로그](https://blog.socialmkt.co.kr/475)
