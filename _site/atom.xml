@@ -4,12 +4,22 @@
  <title>NewPlans</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2020-01-04T23:25:18+09:00</updated>
+ <updated>2020-01-05T02:02:26+09:00</updated>
  <author>
    <name>Surim Sohn</name>
    <uri>https://surimemo.com</uri>
    <email>surim.sohn@gmail.com</email>
  </author>
+
+ 
+
+ <entry>
+   <title></title>
+   <link href="http://localhost:4000/2020-01-05-aarrr"/>
+   <id>http://localhost:4000/2020-01-05-aarrr</id>
+   <updated>2020-01-05T02:02:26+09:00</updated>
+   <content type="html">&lt;h2 id=&quot;aarrr이란&quot;&gt;AARRR이란&lt;/h2&gt; &lt;p&gt;Priates Metrics(해적 지표)라고도 불리며 주로 리소스가 한정된 스타트업에서 사용한다. AARRR프레임을 통해 고객의 유입부터 활동, 재방문, 추천, 구매에 이르는 각 단계를 분석해 효율적으로 개선할 수 있도록 도와준다.&lt;/p&gt; &lt;h2 id=&quot;aarrr-단계별-핵심-지표&quot;&gt;AARRR 단계별 핵심 지표&lt;/h2&gt; &lt;p&gt;&lt;img src=&quot;/img/post/05/aarrr.jpeg&quot; alt=&quot;aarrr&quot; /&gt;&lt;/p&gt; &lt;ol&gt; &lt;li&gt; &lt;p&gt;Acquisition - 획득, 유치&lt;/p&gt; &lt;p&gt;어떻게 우리 서비스를 접하고 있는지&lt;/p&gt; &lt;/li&gt; &lt;li&gt;...</content>
+ </entry>
 
  
 
