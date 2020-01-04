@@ -5,8 +5,8 @@
     <description>A minimal blog template, build with Jekyll.</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 05 Jan 2020 02:05:02 +0900</pubDate>
-    <lastBuildDate>Sun, 05 Jan 2020 02:05:02 +0900</lastBuildDate>
+    <pubDate>Sun, 05 Jan 2020 02:09:44 +0900</pubDate>
+    <lastBuildDate>Sun, 05 Jan 2020 02:09:44 +0900</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -112,7 +112,7 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Sun, 05 Jan 2020 02:05:02 +0900</pubDate>
+        <pubDate>Sun, 05 Jan 2020 02:09:44 +0900</pubDate>
         <link>http://localhost:4000//2020-01-05-aarrr</link>
         <guid isPermaLink="true">http://localhost:4000//2020-01-05-aarrr</guid>
         
