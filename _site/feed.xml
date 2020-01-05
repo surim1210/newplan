@@ -5,8 +5,8 @@
     <description>A minimal blog template, build with Jekyll.</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 05 Jan 2020 21:42:17 +0900</pubDate>
-    <lastBuildDate>Sun, 05 Jan 2020 21:42:17 +0900</lastBuildDate>
+    <pubDate>Sun, 05 Jan 2020 21:43:42 +0900</pubDate>
+    <lastBuildDate>Sun, 05 Jan 2020 21:43:42 +0900</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -36,7 +36,7 @@
     &lt;p&gt;이후의 서비스 재사용률은 어떻게 되는가&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Refferal - 추천&lt;/p&gt;
+    &lt;p&gt;Referral- 추천&lt;/p&gt;
 
     &lt;p&gt;사용자가 자발적 바이럴, 공유를 일으키고 있는가&lt;/p&gt;
   &lt;/li&gt;
@@ -61,7 +61,7 @@
 
 &lt;p&gt;&lt;strong&gt;측정지표: 이탈률(Bounce Rate) / PV(Page View) / 세션당 페이지수 / 회원가입 / 구독 / 체류시간&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h5 id=&quot;__retention-__&quot;&gt;__Retention __&lt;/h5&gt;
+&lt;h5 id=&quot;retention&quot;&gt;&lt;strong&gt;Retention&lt;/strong&gt;&lt;/h5&gt;
 
 &lt;p&gt;서비스를 한 번 이용했던 고객이 재방문하여 다른 컨텐츠를 소비하거나 참여하는 것을 말한다. 재방문율이 높다는 것은 그만큼 서비스에 대한 만족감을 높다는 것을 의미 할 수 있기 때문에 중요한 수치입니다. 재방문을 유도하기 위해 주로 이메일이나, 구독, 푸쉬, 쿠폰 발행 등의 방법을 사용한다.&lt;/p&gt;
 
