@@ -5,8 +5,8 @@
     <description>A minimal blog template, build with Jekyll.</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 05 Jan 2020 21:43:42 +0900</pubDate>
-    <lastBuildDate>Sun, 05 Jan 2020 21:43:42 +0900</lastBuildDate>
+    <pubDate>Sun, 05 Jan 2020 21:44:39 +0900</pubDate>
+    <lastBuildDate>Sun, 05 Jan 2020 21:44:39 +0900</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -82,24 +82,21 @@
 &lt;h3 id=&quot;단어-정리&quot;&gt;단어 정리&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;DAU (Daily Active User) 일간 순수 이용자&lt;/li&gt;
-&lt;/ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;DAU (Daily Active User) 일간 순수 이용자&lt;/p&gt;
 
-&lt;p&gt;사용자를 이해하는 중요한 기본 관리 지표.  유저해빗에서는 오늘의 순사용자도 1시간 간격으로 실시간 집계하여 표시한다.&lt;/p&gt;
+    &lt;p&gt;사용자를 이해하는 중요한 기본 관리 지표.  유저해빗에서는 오늘의 순사용자도 1시간 간격으로 실시간 집계하여 표시한다.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;MAU (Monthly Active User) 월간 순수 이용자&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;MAU (Monthly Active User) 월간 순수 이용자&lt;/li&gt;
-&lt;/ul&gt;
+    &lt;p&gt;일반적으로 이전 30일을 기준으로 측정하거나 1일부터 말일을 기준으로 측정한다. 유저해빗에서는 일수와 상관없이 월을 기준으로 사용자수 측정&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;유저해빗(User Habit)&lt;/p&gt;
 
-&lt;p&gt;일반적으로 이전 30일을 기준으로 측정하거나 1일부터 말일을 기준으로 측정한다. 유저해빗에서는 일수와 상관없이 월을 기준으로 사용자수 측정&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;유저해빗(User Habit)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;깊이 있는 사용자 행동 분석을 제공하는 새로운 종류의 데이터 분석 서비스&lt;/p&gt;
-
-&lt;ul&gt;
+    &lt;p&gt;깊이 있는 사용자 행동 분석을 제공하는 새로운 종류의 데이터 분석 서비스&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;CLV (Customer Lifetime Value) 고객 생애 가치&lt;/p&gt;
 
