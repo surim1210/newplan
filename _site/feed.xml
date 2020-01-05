@@ -5,8 +5,8 @@
     <description>A minimal blog template, build with Jekyll.</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 05 Jan 2020 16:22:20 +0900</pubDate>
-    <lastBuildDate>Sun, 05 Jan 2020 16:22:20 +0900</lastBuildDate>
+    <pubDate>Sun, 05 Jan 2020 21:42:17 +0900</pubDate>
+    <lastBuildDate>Sun, 05 Jan 2020 21:42:17 +0900</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -17,7 +17,7 @@
 
 &lt;h2 id=&quot;aarrr-단계별-핵심-지표&quot;&gt;AARRR 단계별 핵심 지표&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/post/05/aarrr.jpeg&quot; alt=&quot;aarrr&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/post/03/ar.jpeg&quot; alt=&quot;aarrr&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -67,7 +67,7 @@
 
 &lt;p&gt;&lt;strong&gt;측정지표: 재방문율(Retention Rate) / DAU / MAU 사용&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h5 id=&quot;refferal&quot;&gt;&lt;strong&gt;Refferal&lt;/strong&gt;&lt;/h5&gt;
+&lt;h5 id=&quot;referral&quot;&gt;&lt;strong&gt;Referral&lt;/strong&gt;&lt;/h5&gt;
 
 &lt;p&gt;바이럴 마케팅이 대표적인 방법이다. 주로 지인의 추천이나 자주가는 커뮤니티 또는 블로그 등의 추천을 통해 간접 경험 후 서비스를 가입하거나 이용하게 된다. 어떤 광고보다 효과가 좋은건 &lt;em&gt;지인의 추천&lt;/em&gt; 이다. 내 서비스 이용자인 고객들이 지인에게 추천을 할 수 있도록 해야한다.&lt;/p&gt;
 
